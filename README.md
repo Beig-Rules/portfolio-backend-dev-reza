@@ -1,2 +1,5 @@
-# portfolio-backend-dev-reza
-پورتفولیو رضا کریمی — توسعه‌دهنده بک‌اند
+# پورتفولیو رضا کریمی
+
+پورتفولیو توسعه‌دهنده بک‌اند فارسی.
+
+https://beig-rules.github.io/portfolio-backend-dev-reza/
